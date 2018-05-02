@@ -1,7 +1,7 @@
 {
   "name": "giphy-api-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Let's use the Giphy API and use Angular's `$http` service to create a fun application. **Fork** the provided repository. Before you get started, you'll need to read through the [Giphy documentation](https://developers.giphy.com/) to determine which endpoints you need to complete this app. You will also need to register an account in order to get your `API Key`. This key is used for all of your requests to authenticate your app to Giphy.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,5 +13,14 @@
     "angular": "^1.6.9",
     "angular-route": "^1.6.10",
     "express": "^4.15.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilananagib/angular-giphy-api-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ilananagib/angular-giphy-api-2/issues"
+  },
+  "homepage": "https://github.com/ilananagib/angular-giphy-api-2#readme"
 }
